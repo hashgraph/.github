@@ -56,7 +56,7 @@ body:
   - type: input
     id: version
     attributes:
-      description: What version of the software are you running?
+      description: What version of the software are you using?
       label: Version
       placeholder: v0.1.0
     validations:
