@@ -71,7 +71,7 @@ contribute. All issue types follow the same general lifecycle. Differences will 
 
 - Issues should be connected to the [pull request](#pull-requests) that resolves it.
 - Whoever is working on an issue (whether a maintainer or someone from the community), should either assign the issue to
-  them self or add a comment that they will be working on it.
+  themself or add a comment that they will be working on it.
 
 #### Closure
 
@@ -183,7 +183,7 @@ Now that you've got your [forked](#forking) branch, you can proceed to submit it
 - We more than welcome PRs that are currently in progress. If a PR is a work in progress, it should be opened as
   a [Draft PR](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests). Once the PR is ready for
   review, mark it as ready to convert it to a regular PR.
-- After submitting, ensure all GitHub checks pass before requesting a review. Also double check all static analysis and
+- After submitting, ensure all GitHub checks pass before requesting a review. Also double-check all static analysis and
   coverage tools show a sufficient coverage and quality level.
 
 #### Triage
