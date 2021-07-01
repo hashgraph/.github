@@ -13,19 +13,19 @@ Whether you are a user or contributor, official support channels include:
 
 Before opening a new discussion item or issue, it's helpful to search the project. It's likely that another user has
 already reported the issue you're facing, or it's a known issue that we're already aware of. It is also worth asking on
-or searching on Discord.
+Discord.
 
 ### Discord
 
 [Discord](https://discord.com) is a popular instant messaging platform designed for creating communities. Hedera
-developers and other community enthusiasts regularly hang out there and are more than happy to answer any questions.
+developers and other community members regularly hang out there and are more than happy to answer any questions.
 
 ### GitHub Discussions
 
 [GitHub discussions](https://docs.github.com/en/discussions) is the primary way to ask questions and receive support.
 Discussions should be preferred as instant messaging applications don't provide an easy way to search past questions to
-see if it's already been answered. Asking in Discussions can help provide a database of frequently asked questions (FAQ)
-, reducing the support burden and helping newcomers. Depending on how the discussion proceeds, these can later turn into
+see if it's already been answered. Asking in Discussions can help provide a database of frequently asked questions (FAQ),
+reducing the support burden and helping newcomers. Depending on how the discussion proceeds, these can later turn into
 a bug or feature request.
 
 ## Issues
