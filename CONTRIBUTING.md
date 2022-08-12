@@ -117,7 +117,7 @@ $ git commit --signoff -S -m "Your commit message"
 
 ### Sign Off
 
-The sign-off is a simple line at the end of a commit message. All commits needs to be signed. Your signature certifies
+The sign-off is a simple line at the end of a commit message. All commits need to be signed. Your signature certifies
 that you wrote the code or otherwise have the right to contribute the material. First, read the
 [Developer Certificate of Origin](https://developercertificate.org/) (DCO) to fully understand its terms.
 
