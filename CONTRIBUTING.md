@@ -103,9 +103,18 @@ $ git checkout -b new-feature
 $ git add <file>
 ```
 
-8. Use [sign-off](#sign-off) when making each of your commits. Additionally,
-   please [PGP sign](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits)
-   all your commits with your public key so we can verify it's really you. If you forgot to sign or sign-off some
+8. Enable [GPG signing](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits) of your commits within the repo.
+   Signing all your commits with your public key allows the comunity to verify it's really you. If you forgot to sign some
+   commits that are part of the contribution, you can
+   ask [git to rewrite your commit history](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History).
+
+```sh
+$ git config commit.gpgsign true
+```
+
+9. Use [sign-off](#sign-off) when making each of your commits. Additionally,
+   please [GPG sign](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/signing-commits)
+   all your commits with your public key so we can verify it's really you. If you forgot to sign-off some
    commits that are part of the contribution, you can
    ask [git to rewrite your commit history](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History).
 
@@ -113,7 +122,7 @@ $ git add <file>
 $ git commit --signoff -S -m "Your commit message"
 ```
 
-9. [Submit](#pr-lifecycle) a pull request.
+10. [Submit](#pr-lifecycle) a pull request.
 
 ### Sign Off
 
