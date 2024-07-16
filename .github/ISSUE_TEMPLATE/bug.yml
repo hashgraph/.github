@@ -57,6 +57,8 @@ body:
       description: What version of the software are you using?
       label: Version
       placeholder: v0.1.0
+    validations:
+      required: true
   - type: dropdown
     id: os
     attributes:
