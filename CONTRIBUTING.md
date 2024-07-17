@@ -61,8 +61,7 @@ contribute. All issue types follow the same general lifecycle. Differences will 
 ## Pull Requests
 
 Like most open source projects, we use
-[pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (
-PRs) to track code changes.
+[pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (PRs) to track code changes.
 
 ### Forking
 
