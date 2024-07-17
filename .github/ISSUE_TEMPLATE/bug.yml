@@ -51,8 +51,6 @@ body:
         - testnet
         - previewnet
         - other
-    validations:
-      required: true
   - type: input
     id: version
     attributes:
